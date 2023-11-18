@@ -19,6 +19,7 @@ Ulitmately, I'd like to improve upon this game, and will continue to refine this
 # Installation Instrucitons 
 
 # Usage instructions 
+Run Milestone 5, enter a single letter, and also you can update the word_list variable with a list of words of your choosing. 
 
 # File structure of the project 
 
