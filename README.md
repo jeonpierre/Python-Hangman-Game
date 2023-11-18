@@ -22,6 +22,10 @@ Ulitmately, I'd like to improve upon this game, and will continue to refine this
 
 # File structure of the project 
 
+This project is run through Milestone_5.py, but was completed in separeate milestones. 
+
+Therefore, Milstone_2,3,4 also show the progress of developing the code that ultimately completed the game.
+
 # License information
 
 
